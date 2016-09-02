@@ -1,0 +1,119 @@
+Logan Ave/ Lakeshore, Toronto,43.618568300,-79.368791700
+Danforth Ave/ Cedarvale Ave, Toronto,43.685157900,-79.310212600
+Bloor St /Dovercourt , Toronto,43.661227000,-79.429242000
+Davenport Rd/ Christie St, Toronto,43.674184000,-79.422501500
+Bloor St w and Old Mill Terr, Toronto,43.650098800,-79.498414100
+University Ave and College St, Toronto,43.659884000,-79.390349000
+Gerrard St + Parliament St , Toronto,43.662060000,-79.367150000
+Victoria Park Av + Linton Av, Toronto,43.686655100,-79.283623900
+Parliament St + Front St, Toronto,43.651054900,-79.362384100
+Glenside Av + Walpole Av, Toronto,43.674543100,-79.327079400
+Hogarth Ave and Broadview Ave, Toronto,43.673349600,-79.356213300
+Pape Ave and Mortimer Ave, Toronto,43.685761600,-79.347429800
+The Queensway and North Queen St, Toronto,43.614323800,-79.556311300
+Yonge St and Glendora Ave, Toronto,43.759083600,-79.410410500
+Bellevue Ave and College St, Toronto,43.657111400,-79.404511700
+Carlton St + Parliament St, Toronto,43.664072000,-79.367834000
+Front St E and Scott St, Toronto,43.647467100,-79.375754000
+Queen St + Curzon St, Toronto,43.666454700,-79.332865000
+Boxdene Av + McNicoll Av, Toronto,43.818584000,-79.269363000
+Christie St + Dupont St, Toronto,43.671046600,-79.424523000
+Bayview Av + Ruddington Dr, Toronto,43.790152600,-79.389916000
+Carlton St + Seaton St , Toronto,43.659115300,-79.369662000
+southbound Yonge Street at Queen Street West blocked, Toronto,43.653226000,-79.383184300
+Yonge St and Queens Quay, Toronto,43.641943700,-79.374661100
+Dundas St W and Manning Ave, Toronto,43.651309000,-79.410922000
+McCowan Rd and Trudelle St, Toronto,43.740623100,-79.239263000
+Eglinton Avenue East and Danforth Road, Toronto,43.737043200,-79.246211300
+Kennedy Rd/ McNicoll Ave, Toronto,43.812278000,-79.301686000
+Carlaw Ave/ Danforth Ave, Toronto,43.678557000,-79.347165000
+Bloor St W and Manning Ave , Toronto,43.664098700,-79.415953300
+Finch Ave/ Birchmount Rd, Toronto,43.798992000,-79.305969000
+Bay St and Dundas St W, Toronto,43.655725900,-79.383733200
+Oakwood Ave and Eglinton Ave W, Toronto,43.697343800,-79.442812900
+Dufferin St and Waterloo Ave, Toronto,43.645463000,-79.429848800
+Lawrence Ave E and Morningside Ave, Toronto,43.768369900,-79.186104800
+Queen St W and McCaul St, Toronto,43.650151700,-79.389686300
+Shuter St and Yonge St, Toronto,43.654067600,-79.379957100
+Bloor St and Mill Rd, Toronto,43.632054600,-79.575145700
+Peter St and Queen St W, Toronto,43.649317000,-79.393590600
+Emerson Ave and Millicent St , Toronto,43.664480300,-79.443077700
+Mimicao Ave and Lakeshore Blvd, Toronto,43.613741100,-79.489330500
+Black Creek Dr and Lawrence Ave W, Toronto,43.704991700,-79.494070400
+Shoreham Dr and Jane St, Toronto,43.768884300,-79.520314100
+Bayview Ave and Pottery Rd, Toronto,43.687864000,-79.363688800
+Lakeshore Blvd and Logan Ave, Toronto,43.654147200,-79.339801800
+Yonge st and Walker St, Toronto,43.682828000,-79.391921900
+WB Dundas st W at Simcoe St, Toronto,43.650463300,-79.387320000
+Yonge st and Wellington St E, Toronto,43.647841100,-79.377349000
+Birchmount Rd and Foxridge Dr, Toronto,43.721814500,-79.274485400
+Church St and Dundas St E, Toronto,43.656491800,-79.377123800
+Brimley Rd/ Progress Ave, Toronto,43.775126000,-79.263382000
+Grenville St and Bay St, Toronto,43.661551900,-79.386095700
+King St W and Duncan St, Toronto,43.646935300,-79.388140400
+Yonge St and Drewry Ave, Toronto,43.787075800,-79.417329800
+Don Mills Rd and The Donway E, Toronto,43.732183800,-79.342208400
+Kennedy Rd/ Merrian Rd, Toronto,43.727836200,-79.264217700
+Brahms Ave/ Finch Ave W, Toronto,43.792139900,-79.357802200
+McCowan Rd and Steeles Ave E, Toronto,43.830970700,-79.275274600
+Queen St and Broadview Ave, Toronto,43.658869100,-79.349814200
+Davenport Rd and Ossington Ave, Toronto,43.674694500,-79.430924300
+Yonge St/ Dundas St, Toronto,43.656244900,-79.380923000
+Logan Ave/ Lakeshore Blvd, Toronto,43.654147200,-79.339801800
+King St and Atlantic Ave, Toronto,43.640159400,-79.421255300
+Edgewood Ave and Kellner Crt, Toronto,43.672015300,-79.314157600
+Carlton St and Church St, Toronto,43.661871000,-79.379335200
+Birchmount Rd and Anaconda Ave, Toronto,43.718563800,-79.273092100
+Wellington St W and Simcoe St, Toronto,43.646092700,-79.385564500
+Dixon Rd s/ of Hwy 401, Toronto,43.692212000,-79.567175000
+Bay St and King St W, Toronto,43.648653100,-79.380259100
+Eighth St and Lakeshore Blvd, Toronto,43.600528700,-79.506402200
+Spadina Av + Bloor St , Toronto,43.666629900,-79.403697300
+Eglinton Av + Avenue Rd, Toronto,43.704593000,-79.408502000
+Adelaide St/ Duncan St, Toronto,43.648833400,-79.388945100
+Pharmacy Ave/ Steeles Ave W, Toronto,43.816674000,-79.336840000
+Rouge Hill Go Station, Toronto,43.780719800,-79.130322800
+Queens Quay and Freeland St, Toronto,43.642514500,-79.373016800
+Grantbrook St and Hendon Ave, Toronto,43.778086100,-79.432201900
+Leslie Street and Bond Avenue, Toronto,43.743696000,-79.358067600
+Avenue Road and Chaplin Cres, Toronto,43.698763000,-79.406077000
+Kipling Ave/ Rexdale Blvd, Toronto,43.711960400,-79.566448900
+Harbord St/ Bathurst St, Toronto,43.661612000,-79.409540000
+Don Mills Rd + Sheppard Av, Toronto,43.775683000,-79.345060000
+Queen St + Leslie St, Toronto,43.663328000,-79.330133000
+Victoria Park Av + Sheppard Av, Toronto,43.775517000,-79.323294000
+Giltspur Dr + jane St, Toronto,43.734812000,-79.510991000
+Knob Hill Dr and Weston Rd, Toronto,43.710855000,-79.534765000
+Eva Road/ The West Mall, Toronto,43.639683000,-79.563122700
+Robert St/ College St, Toronto,43.662289500,-79.403675200
+John St and Richmond St W, Toronto,43.649120600,-79.390758300
+Queen St W and Simcoe St, Toronto,43.650659000,-79.387390600
+Crawford ST + Queen St, Toronto,43.653581000,-79.418446000
+Maplewood Av + Kenwood Av, Toronto,43.685932000,-79.423382000
+Scarlett Rd and Foxwell St, Toronto,43.669383700,-79.501577100
+Burnhamthorpe Rd and Saturn Rd, Toronto,43.642643400,-79.575919500
+Dupont St + Christie St, Toronto,43.671692000,-79.421351000
+Dupont St + Christie St, Toronto,43.671692000,-79.421351000
+Carlaw Ave and Lakeshore Blvd, Toronto,43.655131300,-79.337558500
+Bathurst St and Wellington St, Toronto,43.642663200,-79.402145400
+Cartwright Ave and Dufferin St, Toronto,43.723854000,-79.456904300
+College St + Elizabeth St, Toronto,43.657772000,-79.386163000
+Crescent Rd and Yonge St, Toronto,43.676938700,-79.389519300
+St Clair Ave W and Keele St, Toronto,43.672490800,-79.467542800
+Dufferin St/ Queen St, Toronto,43.642279000,-79.428706200
+Gladstone Ave and Queen St W, Toronto,43.642550000,-79.427111400
+Jane and Wilson , Toronto,43.720947800,-79.508552300
+Dundas St + Carlyle St, Toronto,43.652384400,-79.404753200
+Avenue Rd/ St Clair, Toronto,43.706913000,-79.409921000
+Avenue Rd/ Lawrence Ave, Toronto,43.722250000,-79.415595000
+Sheppard Ave W/ Yukon Ave, Toronto,43.630866900,-79.426327400
+Gerrard St + River St, Toronto,43.663797000,-79.359067000
+Bloor St E and Ted Rogers Way, Toronto,43.671577900,-79.380523600
+Dupont St and Perth Ave, Toronto,43.665490600,-79.452397000
+Logan Ave/ Lakeshore, Toronto,43.618568300,-79.368791700
+Danforth Ave/ Cedarvale Ave, Toronto,43.685157900,-79.310212600
+Bloor St /Dovercourt , Toronto,43.661227000,-79.429242000
+Davenport Rd/ Christie St, Toronto,43.674184000,-79.422501500
+Bloor St w and Old Mill Terr, Toronto,43.650098800,-79.498414100
+University Ave and College St, Toronto,43.659884000,-79.390349000
+Gerrard St + Parliament St , Toronto,43.662060000,-79.367150000
