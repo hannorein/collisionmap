@@ -5,10 +5,7 @@ import tweepy #https://github.com/tweepy/tweepy
 import csv
 
 #Twitter API credentials
-consumer_key = "3F5Rej5TTnorsFE7D8kvFv0NE"
-consumer_secret = "JZndtU0BTMAmx7RVDEcF7xtvCKrfgxrQajc5vizwlIfQ5WAf9h"
-access_key = "169081481-e2Yp9rIg6H9s10nmnbzifik6MWOL2hkT6fBUn6iv"
-access_secret = "uVG5mFl82g6nm6DrrSQ2P96Z9uYRi9r7bJKkHaReNELsm"
+from secrets import *
 
 
 def get_all_tweets(screen_name):
@@ -23,13 +20,16 @@ def get_all_tweets(screen_name):
 	alltweets = []	
 	
 	#make initial request for most recent tweets (200 is the maximum allowed count)
-	oldest = 745744014004060159 #alltweets[-1].id - 1
-	new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
+	#oldest = 745744014004060159 #alltweets[-1].id - 1
+	#new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
+	new_tweets = api.user_timeline(screen_name = screen_name,count=200)
 	
 	#save most recent tweets
 	alltweets.extend(new_tweets)
 	
 	#save the id of the oldest tweet less one
+	oldest = alltweets[-1].id - 1
+
 	
 	#keep grabbing tweets until there are no tweets left to grab
 	while len(new_tweets) > 0:
